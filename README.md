@@ -1,5 +1,5 @@
 # AnnpurnaOrganization
-Website Deveopment for Makeathon5 organised by Microsoft Learn Chapter TIET(MLSC) at Thapar university.
+I have made this Website in Makeathon5 Hackathon organised by Microsoft Learn Chapter TIET(MLSC) at Thapar university.
 
 Problem Statement: Participants are encouraged to develop innovative solutions that address the issue of world hunger. This could include solutions for food production, distribution, waste reduction, and other related issues. The solution should be easily scalable to the masses. 
 
